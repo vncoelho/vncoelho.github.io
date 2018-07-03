@@ -11,6 +11,8 @@ Some general ideas promoted by him are:
 
 >It is time for embedding privacy in our daily life.
 
+Updated CV can be found at: [LATTES - CV](http://lattes.cnpq.br/8931047228585695)
+
 ### About Me
 
 Researcher engaged in social, scientific causes, supporting social and software freedom.
@@ -25,7 +27,6 @@ The main area I have been acting is artificial intelligence, focusing on the fol
 
 
 Participant of the Grupo de Otimização e Algoritmos (GOAL/UFOP), LAGO/UFF, Machine Intelligence and Data Science (MINDS/UFMG).
-
 Member of the Instituto de Pesquisa e Desenvolvimento de Tecnologias (IPDT), Ouro Preto/MG, Brazil.
 
 One of the idealizerers of the [Grupo da Causa Humana](https://github.com/CausaHumana) (GCH), Ouro Preto/MG, Brazil, [Creating.City](https://github.com/CreatingCity) and [NeoResearch Community](https://github.com/NeoResearch).
@@ -33,9 +34,7 @@ One of the idealizerers of the [Grupo da Causa Humana](https://github.com/CausaH
 I have been effectively working and researching on solving combinatorial optimization problems for real-world applications, spreading this knowledge and software to small, medium and large size global companies (such as INDITEX).
 
 Check my [LATTES - CV](http://lattes.cnpq.br/8931047228585695), usually it is the one that is most updated, with current projects and conference papers.
-However, most parts are in Portuguese :) Which, is, by the way, a beautiful language (such as the others ones :D)...
-
-Check my open working projects and open data at [github](https://github.com/vncoelho) for joining our team, as a contributor, partner and friend.
+While most parts are in Portuguese :) I believe you gonna have an interesting journey throughout my mother language, which, is, by the way, a beautiful language (such as the others ones).
 
 ##### EDUCATION
 
@@ -52,10 +51,10 @@ I am also interested in neuroscience, applied magnetism, quantum physics, simula
 
 ##### REFEREE FOR
 
-* Applied Soft Computing*
-* Renewable & Sustainable Energy Reviews*
-* Renewable Energy*
-* Applied Energy*
+* Applied Soft Computing~
+* Renewable & Sustainable Energy Reviews~
+* Renewable Energy~
+* Applied Energy~
 * European Journal of Operational Research
 * Energy Conversion and Management
 * Sustainable Cities and Society
@@ -71,7 +70,7 @@ I am also interested in neuroscience, applied magnetism, quantum physics, simula
 * Transportation Research. Part E, Logistics and Transportation Review
 * The Open Electrical & Electronic Engineering Journal
 
-*Recognized as an outstanding reviewer in 2016*
+*~ Recognized as an outstanding reviewer in 2016*
 
 ##### SCHORLARSHIPS, FELLOWSHIPS AND AWARDS
 
@@ -189,3 +188,9 @@ Source files, codes, experiments and everything we used in each project is usual
 
 * Combinatorial optimization problems resolution and techniques for tackling them
   * Most part of the codes are available inside the [OptFrame](https://github.com/optframe).
+
+> “If I have seen further, it is by standing on the shoulders of giants.”, [Isaac Newton](https://en.wikipedia.org/wiki/Isaac_Newton)
+
+> "We are also the giants. We are living a continuous endless timeline of happiness and learning :)"
+
+> “Estamos todos unidos energeticamente. Dissemine amor e paz!”
