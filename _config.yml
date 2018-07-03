@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+title: Vitor Nazário Coelho
+description: Coelho, V. N. personal webpage
+logo: cv-pic.jpg
+#show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+#google_analytics: [Your Google Analytics tracking ID]
+# https://github.com/pages-themes/minimal
