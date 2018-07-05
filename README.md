@@ -1,5 +1,24 @@
+This is a simple website generated using the repository [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes),
+online at [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.github.io/minimal-mistakes/).
 
-# Guideliness for running on Linux
+[Jekyll](https://jekyllrb.com/) framework integrated with github-pages is the core of this automatic scripts.
+
+# Simple guideliness
+
+* Folder `/_pages`: .md files can be added and will appear in the Sitemap.
+  * `home.md` is the main page opened by your portal.
+  * `page-archive.html`, `sitemap.md`, `tag-archive.md`, `year-archive.md`, `archive-layout-with-content.md` and `404.md` will rarely needed to be modified. These are files that automatic filter some of your content.
+* Folder `/_posts`: .md files are required starting with the same date template that is exemplified there.
+* Navigation bar can be edit in `/_data/navigation.yml`
+* The folder suggested for inserting your images is `/assets/images`
+
+
+# Running locally on Ubuntu 18.04
+Packages install process is described at A1) and A2).
+
+After these steps, command `./execBundleJekyllServe.sh` should be executed and localhost:4000 should direct to your portal.
+
+## A1) Installing the correct ruby version
 
 First step is to install the correct packages. Follow: [GoRails setup](https://gorails.com/setup/ubuntu/18.04)
 
@@ -29,7 +48,7 @@ rbenv global 2.5.1
 ruby -v
 ```
 
-Next steps are described at [Jekyll](https://jekyllrb.com/)
+## A2) Next steps are described at [Jekyll](https://jekyllrb.com/)
 
 ```
 gem install bundler jekyll
