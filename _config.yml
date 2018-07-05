@@ -6,7 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme             : "mmistakes/minimal-mistakes"
-# theme			 : "minimal-mistakes-jekyll"
+
+#Local theme used for local tests
+#theme			 : "minimal-mistakes-jekyll"
 
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -102,7 +104,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/vncoelho.jpg"
-  bio              : "Just another boring, tattooed, time traveling, designer."
+  bio              : "Scientist, researcher, developer and nature lover."
   location         : "Ouro Preto/MG, Brazil"
   email            :
   uri              : *url
