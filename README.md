@@ -3,7 +3,7 @@ online at [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.gith
 
 [Jekyll](https://jekyllrb.com/) framework integrated with github-pages is the core of this automatic scripts.
 
-# Simple guideliness
+# Simple guidelines
 
 * Folder `/_pages`: .md files can be added and will appear in the Sitemap.
   * `home.md` is the main page opened by your portal.
@@ -21,7 +21,6 @@ After these steps, command `./execBundleJekyllServe.sh` should be executed and l
 ## A1) Installing the correct ruby version
 
 First step is to install the correct packages. Follow: [GoRails setup](https://gorails.com/setup/ubuntu/18.04)
-
 
 ```
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
