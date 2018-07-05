@@ -3,7 +3,7 @@ online at [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.gith
 
 [Jekyll](https://jekyllrb.com/) framework integrated with github-pages is the core of this automatic scripts.
 
-# Simple guidelines
+## Useful info
 
 * Folder `/_pages`: .md files can be added and will appear in the Sitemap.
   * `home.md` is the main page opened by your portal.
@@ -13,12 +13,12 @@ online at [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.gith
 * The folder suggested for inserting your images is `/assets/images`
 
 
-# Running locally on Ubuntu 18.04
+## [DEV-MODE] - Running locally on Ubuntu 18.04
 Packages install process is described at A1) and A2).
 
 After these steps, command `./execBundleJekyllServe.sh` should be executed and localhost:4000 should direct to your portal.
 
-## A1) Installing the correct ruby version
+### A1) Installing the correct ruby version
 
 First step is to install the correct packages. Follow: [GoRails setup](https://gorails.com/setup/ubuntu/18.04)
 
@@ -47,7 +47,7 @@ rbenv global 2.5.1
 ruby -v
 ```
 
-## A2) Next steps are described at [Jekyll](https://jekyllrb.com/)
+### A2) Next steps are described at [Jekyll](https://jekyllrb.com/)
 
 ```
 gem install bundler jekyll
