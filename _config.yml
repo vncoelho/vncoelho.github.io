@@ -20,7 +20,7 @@ name                     : &name "Vitor Nazário Coelho" # &name is a YAML ancho
 description              : &description "Coelho, V. N. personal website using minimal-mistakes-jekyll."
 url                      : https://vncoelho.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # "/minimal-mistakes" # the subpath of your site, e.g. "/blog"
-repository               : # "mmistakes/minimal-mistakes"
+repository               : "vncoelho/vncoelho.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -132,7 +132,6 @@ author:
   weibo            :
   xing             :
   youtube          :
-
 
 # Reading Files
 include:

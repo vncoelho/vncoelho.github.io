@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About - Vitor Nazário Coelho"
+permalink: /
+title: "Welcome to Vitor Nazário Coelho portal"
 excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
@@ -15,14 +15,23 @@ layouts_gallery:
 last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
-# Welcome to Vitor Nazário Coelho portal
 > Scientist engaged in scientific and social causes
+
+I have been trying to release my research as open-source projects, open for external contributions and suggestions.
+
+Some general ideas that have been spread are:
+* Promote the evolution to distributed systems;
+* Promote social and software freedom;
 
 > It is time for embedding privacy in our daily life.
 
+## Short-Bio
+
+Vitor was born in 1990, is a young scientist from Brazil, winning many national prizes related to researches in optimization field, with topics such as metaheuristics, machine learning and fuzzy systems for smart electric grids, transportation logistics for electric cars and drones. In one of the many worldwide conferences in the field, he visited China in 2014 at WCCI conference, that is now hosted in Brazil and he is taking part of the organization in a workshop called https://creating.city. Academic resume: Researcher engaged in social, scientific causes, supporting social and software freedom. Post-Doctorate in partnership with the Universidade Federal Fluminense, supported by the PDR-10/FAPERJ program. Doctor in Electrical Engineering, in the field of Computational Intelligence, by the Pós-Graduação em Engenharia Elétrica (PPGEE) the Universidade Federal de Minas Gerais (UFMG), with an exchange period at the University of Sheffield (England), in partnership with the Rolls Royce Technology Center in Control and Systems Engineering, and at ORT Braude College of Engineering (Israel), as a Marie Curie researcher for the European Commission as part of the Seventh Framework Program. Bachelor's degree in Control Engineering and Automation by the Universidade Federal de Ouro Preto (UFOP) with sandwich period, funded by the Sciences without Borders program, at Universat Pompeu Fabra (Barcelona / Spain). Technician in Electronic Instrumentation and Process Control by the Instituto Federal de Minas Gerais with internship at the mining area of Alegria, working for the VALE S.A. The main area I have been acting is artificial intelligence, focusing on the following research topics: mono and multi-objective combinatorial optimization, metaheuristics, trajectory search algorithms, evolutionary computation, evolutionary strategies, mathematical programming, optimization techniques applied to smart-microgrids, Renewable energy integration with mini/microgrid systems, autonomy of intelligent networks, energy storage management, vehicle-to-grid (V2G) integration technologies, mining planning, multi-agent systems, time series forecasting methods, machine learning, scheduling/timetabling, vehicle routing, operational and marketing research, adaptive and self-calibrated PID controllers, and development of computational frameworks. Participant of the Grupo de Otimização e Algoritmos (GOAL/UFOP), LAGO/UFF, Machine Intelligence and Data Science (MINDS/UFMG) laboratory and Grupo da Causa Humana (under construction). ​ I have been effectively working and researching on solving combinatorial optimization problems for real-world applications, spreading this knowledge and software to small, medium and large size global companies (such as INDITEX).
+
 Updated CV can be found at: [LATTES - CV](http://lattes.cnpq.br/8931047228585695)
 
-### About Me
+## About Me
 
 Researcher engaged in social, scientific causes, supporting social and software freedom.
 
