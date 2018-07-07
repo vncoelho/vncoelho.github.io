@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme             : "mmistakes/minimal-mistakes"
-
 #Local theme used for local tests
 #theme			 : "minimal-mistakes-jekyll"
 
@@ -132,6 +131,9 @@ author:
   weibo            :
   xing             :
   youtube          :
+
+#Extra config added for running locally with remote_theme
+github: [metadata]
 
 # Reading Files
 include:
