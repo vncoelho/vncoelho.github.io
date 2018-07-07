@@ -21,7 +21,7 @@ foo:
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: /
   - title: "News"
     url: /year-archive/
   - title: "Works&Ideas"
