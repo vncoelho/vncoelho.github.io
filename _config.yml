@@ -103,7 +103,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/vncoelho.jpg"
-  bio              : "Scientist, researcher, developer and nature lover."
+  bio              : "Scientist, researcher, developer and nature lover. I have been trying to release my research as open-source projects, open for external contributions and suggestions."
   location         : "Ouro Preto/MG, Brazil"
   email            :
   uri              : *url

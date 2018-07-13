@@ -15,23 +15,35 @@ layouts_gallery:
 last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
-> Scientist engaged in scientific and social causes
-
-I have been trying to release my research as open-source projects, open for external contributions and suggestions.
-
-Some general ideas that have been spread are:
-* Promote the evolution to distributed systems;
-* Promote social and software freedom;
-
-> It is time for embedding privacy in our daily life.
+> Researcher engaged in scientific, industrial and socials causes, contributor of several open-source projects and and expert in the development of industrial large-scale projects.
 
 ## Short-Bio
 
-Vitor was born in 1990, is a young scientist from Brazil, winning many national prizes related to researches in optimization field, with topics such as metaheuristics, machine learning and fuzzy systems for smart electric grids, transportation logistics for electric cars and drones. In one of the many worldwide conferences in the field, he visited China in 2014 at WCCI conference, that is now hosted in Brazil and he is taking part of the organization in a workshop called https://creating.city. Academic resume: Researcher engaged in social, scientific causes, supporting social and software freedom. Post-Doctorate in partnership with the Universidade Federal Fluminense, supported by the PDR-10/FAPERJ program. Doctor in Electrical Engineering, in the field of Computational Intelligence, by the Pós-Graduação em Engenharia Elétrica (PPGEE) the Universidade Federal de Minas Gerais (UFMG), with an exchange period at the University of Sheffield (England), in partnership with the Rolls Royce Technology Center in Control and Systems Engineering, and at ORT Braude College of Engineering (Israel), as a Marie Curie researcher for the European Commission as part of the Seventh Framework Program. Bachelor's degree in Control Engineering and Automation by the Universidade Federal de Ouro Preto (UFOP) with sandwich period, funded by the Sciences without Borders program, at Universat Pompeu Fabra (Barcelona / Spain). Technician in Electronic Instrumentation and Process Control by the Instituto Federal de Minas Gerais with internship at the mining area of Alegria, working for the VALE S.A. The main area I have been acting is artificial intelligence, focusing on the following research topics: mono and multi-objective combinatorial optimization, metaheuristics, trajectory search algorithms, evolutionary computation, evolutionary strategies, mathematical programming, optimization techniques applied to smart-microgrids, Renewable energy integration with mini/microgrid systems, autonomy of intelligent networks, energy storage management, vehicle-to-grid (V2G) integration technologies, mining planning, multi-agent systems, time series forecasting methods, machine learning, scheduling/timetabling, vehicle routing, operational and marketing research, adaptive and self-calibrated PID controllers, and development of computational frameworks. Participant of the Grupo de Otimização e Algoritmos (GOAL/UFOP), LAGO/UFF, Machine Intelligence and Data Science (MINDS/UFMG) laboratory and Grupo da Causa Humana (under construction). ​ I have been effectively working and researching on solving combinatorial optimization problems for real-world applications, spreading this knowledge and software to small, medium and large size global companies (such as INDITEX).
+Technician in Electronic Instrumentation and Process Control by the Instituto Federal de Minas Gerais with internship at the mining center of Alegria, working for the VALE S.A.
+Bachelor's degree in Control Engineering and Automation by the Universidade Federal de Ouro Preto (UFOP) with sandwich period, funded by the Sciences without Borders program, at Universat Pompeu Fabra (Barcelona / Spain).
+Doctor in Electrical Engineering, in the field of Computational Intelligence, by the Pós-Graduação em Engenharia Elétrica (PPGEE) the Universidade Federal de Minas Gerais (UFMG), finishing his PhD in 2 years, with 25 years old, without attending Master studies.
+During the PhD, Vitor did an exchange period at the University of Sheffield (England), in partnership with the Rolls Royce Technology Center in Control and Systems Engineering, and at ORT Braude College of Engineering (Israel), as a Marie Curie researcher for the European Commission as part of the Seventh Framework Program (FP7).
+Thesis awarded as the best one in the Engineering area in the year of 2016 of UFMG.
+Post-Doctorate in partnership with the Universidade Federal Fluminense, supported by the outstanding program PDR-10/FAPERJ program.
+
+Vitor has been focusing in researches directed to decentralized environments  and smart contracts. Active developer and colaborator of distinct open-source proejcts (vide [https://github.com/vncoelho](https://github.com/vncoelho)). Among them, contributing to the large-scale Ecosystem of the Neo Blockchain.
+
+The main area I have been acting is computational intelligence and mathematics, focusing on the following research topics: mono and multi-objective combinatorial optimization, metaheuristics, robotics and automation, trajectory search algorithms, evolutionary computation, evolutionary strategies, multi-agent systems, time series forecasting, evolution strategies, mathematical programming, multi-criteria decision making, mining planning, operations research, smart and digital cities, optimization techniques applied to smart-microgrids, renewable energy integration with mini/microgrid systems, smart grids autonomy, energy storage management, vehicle-to-grid (V2G) integration technologies,  forecasting of renewable energy consumption and generation, blockchain, the use of cryptocurrencies and distributed ledgers, machine learning, scheduling/timetabling, vehicle routing, digital marketing, adaptive and self-calibrated PID controllers, and development of computational frameworks.
+
+He is interests in the area of neuroscience, quantum physics, analysis of electromagnetic spectra, astronomy, simulation of cellular organisms and their interaction with viruses and pathologies.
+
+One of the founders of the portal [https://creating.city](https://creating.city), a place of academic and industrial discussions surrounding the cities of the future.
+One of the idealizes of the **Grupo da Causa Humana** ([https://causahumana.org](https://causahumana.org)), a group of studies with researchers from distinct areas, focusing on a multidisciplinary analyses of problems faced by society.
+
+Collaborator of the LAGO/UFF and Machine Intelligence and Data Science (MINDS/UFMG) laboratory.
+Between 2009-2013, I collaborated with the Grupo de Otimização e Algoritmos (GOAL/UFOP).
+​
+Promotes the potential optimization techniques in the resolution of problems dealt by medium and large companies.
+In this sense, he worked in the search of solutions for logistics problem for multinational companies, such as INDITEX (fruit of a partnership with the researcher Helena Ramalhinho Lourenço and Daniel Serra, UPF).
 
 Updated CV can be found at: [LATTES - CV](http://lattes.cnpq.br/8931047228585695)
 
-## About Me
+## About Me - Detailed Curriculum
 
 Researcher engaged in social, scientific causes, supporting social and software freedom.
 
@@ -133,3 +145,10 @@ I am also interested in neuroscience, applied magnetism, quantum physics, simula
 * **2011/2013** PROBIC/FAPEMIG – A multi-objective approach for open-pit-mining operational planing problem
 * **2011/2012** CNPq Universal 2010/2012, 482765/2010-0 – Efficient algorithms for solving combinatorial problems of mining and transportation
 * **2009/2011** PROBIC/FAPEMIG – New strategies for efficient resolution for the open-pit-mining operational planning problem
+
+### Some general ideas that have been spread are:
+
+* Promote the evolution to distributed systems;
+* Promote social and software freedom;
+
+> It is time for embedding privacy in our daily life.
