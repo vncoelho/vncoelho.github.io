@@ -126,11 +126,11 @@ I am also interested in neuroscience, applied magnetism, quantum physics, simula
 
 #### Recommended portals
 
-* https://creating.city
-* https://scichain.org
-* http://optframe.github.io/
-* https://causahumana.org
-* https://neoresearch.io
+* [https://creating.city](https://creating.city)
+* [https://scichain.org](https://scichain.org)
+* [http://optframe.github.io](http://optframe.github.io)
+* [https://causahumana.org](https://causahumana.org)
+* [https://neoresearch.io](https://neoresearch.io)
 
 #### Ongoing projects
 
