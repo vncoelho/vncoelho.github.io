@@ -122,8 +122,15 @@ I am also interested in neuroscience, applied magnetism, quantum physics, simula
 * 5th International Conference on Variable Neighborhood Search (Conference Chair, 2017)
 
 
-
 ### PROJECTS AND PARTNERSHIPS
+
+#### Recommended portals
+
+* https://creating.city
+* https://scichain.org
+* http://optframe.github.io/
+* https://causahumana.org
+* https://neoresearch.io
 
 #### Ongoing projects
 
