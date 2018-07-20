@@ -22,10 +22,10 @@ foo:
 main:
   - title: "About"
     url: /
-  - title: "News"
-    url: /year-archive/
   - title: "Works&Ideas"
     url: /work-ideas/
+  - title: "News"
+    url: /year-archive/
   - title: "Lattes"
     url: http://lattes.cnpq.br/8931047228585695
   - title: "Sitemap"

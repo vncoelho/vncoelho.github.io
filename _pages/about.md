@@ -12,7 +12,6 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2018-06-04T12:04:24-04:00
 toc: true
 ---
 > Researcher engaged in scientific, industrial and socials causes, contributor of several open-source projects and and expert in the development of industrial large-scale projects.
