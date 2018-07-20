@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Welcome to Vitor Nazário Coelho portal"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "Scientist, researcher, developer and nature lover. I have been trying to release my research as open-source projects, open for external contributions and suggestions."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
