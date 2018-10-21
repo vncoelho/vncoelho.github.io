@@ -130,6 +130,7 @@ I am also interested in neuroscience, applied magnetism, quantum physics, simula
 * [http://optframe.github.io](http://optframe.github.io)
 * [https://causahumana.org](https://causahumana.org)
 * [https://neoresearch.io](https://neoresearch.io)
+* [https://amazoneo.la](https://amazoneo.la)
 
 #### Ongoing projects
 
