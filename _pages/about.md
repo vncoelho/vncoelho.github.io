@@ -24,7 +24,7 @@ Doctor in Electrical Engineering, in the field of Computational Intelligence, by
 During the PhD, Vitor did an exchange period at the University of Sheffield (England), in partnership with the Rolls Royce Technology Center in Control and Systems Engineering, and at ORT Braude College of Engineering (Israel), as a Marie Curie researcher for the European Commission as part of the Seventh Framework Program (FP7).
 Thesis awarded as the best one in the Engineering area in the year of 2016 of UFMG.
 Between 2016 and 2018, he was a Post-Doctorate researcher in partnership with the Universidade Federal Fluminense, supported by the outstanding program PDR-10/FAPERJ program.
-Currently, he acts as an autonomous developer, investor and partner of different projects.
+Currently, he acts as an autonomous developer, researcher, investor and partner of different projects.
 
 Vitor has been focusing in researches directed to decentralized environments  and smart contracts. Active developer and colaborator of distinct open-source proejcts (vide [https://github.com/vncoelho](https://github.com/vncoelho)). Among them, contributing to the large-scale Ecosystem of the Neo Blockchain.
 
