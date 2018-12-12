@@ -26,17 +26,17 @@ Thesis awarded as the best one in the Engineering area in the year of 2016 of UF
 Between 2016 and 2018, he was a Post-Doctorate researcher in partnership with the Universidade Federal Fluminense, supported by the outstanding program PDR-10/FAPERJ program.
 Currently, he acts as an autonomous developer, researcher, investor and partner of different projects.
 
-Vitor has been focusing in researches directed to decentralized environments  and smart contracts. Active developer and colaborator of distinct open-source proejcts (vide [https://github.com/vncoelho](https://github.com/vncoelho)). Among them, contributing to the large-scale Ecosystem of the Neo Blockchain.
+Vitor has been focusing in researches directed to decentralized environments and smart contracts. Active developer and collaborator of distinct open-source projects (vide [https://github.com/vncoelho](https://github.com/vncoelho)). Among them, contributing to the large-scale Ecosystem of the Neo Blockchain.
 
-The main area I have been acting is computational intelligence and mathematics, focusing on the following research topics: mono and multi-objective combinatorial optimization, metaheuristics, robotics and automation, trajectory search algorithms, evolutionary computation, evolutionary strategies, multi-agent systems, time series forecasting, evolution strategies, mathematical programming, multi-criteria decision making, mining planning, operations research, smart and digital cities, optimization techniques applied to smart-microgrids, renewable energy integration with mini/microgrid systems, smart grids autonomy, energy storage management, vehicle-to-grid (V2G) integration technologies,  forecasting of renewable energy consumption and generation, blockchain, the use of cryptocurrencies and distributed ledgers, machine learning, scheduling/timetabling, vehicle routing, digital marketing, adaptive and self-calibrated PID controllers, and development of computational frameworks.
+The main area he has been acting is computational intelligence and mathematics, focusing on the following research topics: mono and multi-objective combinatorial optimization, metaheuristics, robotics and automation, trajectory search algorithms, evolutionary computation, evolutionary strategies, multi-agent systems, time series forecasting, evolution strategies, mathematical programming, multi-criteria decision making, mining planning, operations research, smart and digital cities, optimization techniques applied to smart-microgrids, renewable energy integration with mini/microgrid systems, smart grids autonomy, energy storage management, vehicle-to-grid (V2G) integration technologies,  forecasting of renewable energy consumption and generation, blockchain, the use of cryptocurrencies and distributed ledgers, machine learning, scheduling/timetabling, vehicle routing, digital marketing, adaptive and self-calibrated PID controllers, and development of computational frameworks.
+In addition, he also has interests in the area of neuroscience, quantum physics, analysis of electromagnetic spectra, astronomy, simulation of cellular organisms and their interaction with viruses and pathologies.
 
-He is interests in the area of neuroscience, quantum physics, analysis of electromagnetic spectra, astronomy, simulation of cellular organisms and their interaction with viruses and pathologies.
-
-One of the founders of the portal [https://creating.city](https://creating.city), a place of academic and industrial discussions surrounding the cities of the future.
+Co-chair and co-founder of the [https://neoresearch.io](https://neoresearch.io), a place for scientific contributions for the Neo Ecosystem.
+Co-founder of the portal [https://creating.city](https://creating.city), an environment for academic and industrial discussions surrounding the cities of the future.
 One of the idealizes of the **Grupo da Causa Humana** ([https://causahumana.org](https://causahumana.org)), a group of studies with researchers from distinct areas, focusing on a multidisciplinary analyses of problems faced by society.
 
-Collaborator of the LAGO/UFF and Machine Intelligence and Data Science (MINDS/UFMG) laboratory.
-Between 2009-2013, I collaborated with the Grupo de Otimização e Algoritmos (GOAL/UFOP).
+Collaborator of the Laboratory of Computational Intelligence (LabIC/LAGO of UFF) and Machine Intelligence and Data Science (MINDS of UFMG) laboratory.
+Between 2009-2013, he collaborated with the Grupo de Otimização e Algoritmos (GOAL/UFOP).
 ​
 Promotes the potential optimization techniques in the resolution of problems dealt by medium and large companies.
 In this sense, he worked in the search of solutions for logistics problem for multinational companies, such as INDITEX (fruit of a partnership with the researcher Helena Ramalhinho Lourenço and Daniel Serra, UPF).
