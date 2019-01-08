@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Vitor Nazário Coelho portal"
+title: "Vitor Nazário Coelho Homepage"
 excerpt: "Scientist, researcher, developer and nature lover. I have been trying to release my research as open-source projects, open for external contributions and suggestions."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
