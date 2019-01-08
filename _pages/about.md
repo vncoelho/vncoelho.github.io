@@ -154,9 +154,9 @@ I am also interested in neuroscience, applied magnetism, quantum physics, simula
 * **2011/2012** CNPq Universal 2010/2012, 482765/2010-0 – Efficient algorithms for solving combinatorial problems of mining and transportation
 * **2009/2011** PROBIC/FAPEMIG – New strategies for efficient resolution for the open-pit-mining operational planning problem
 
-### Some general ideas that have been spread are:
+### Some general ideas that have been spread are
 
-* Promote the evolution to distributed systems;
+* Promote the evolution to distributed systems by decentralizing focusing on reducing costs;
 * Promote social and software freedom;
-
-> It is time for embedding privacy in our daily life.
+* Embed privacy into devices used in our daily life;
+* Resolution of Combinatorial Optimization problems in Smart Cities and the Industry.
