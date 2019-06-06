@@ -162,5 +162,5 @@ I am also interested in neuroscience, applied magnetism, quantum physics, simula
 * Resolution of Combinatorial Optimization problems in Smart Cities and the Industry.
 
 ### News
- * [As teses do ano - UFMG Nº 1998 - Ano 44 - 06.11.2017](https://ufmg.br/comunicacao/publicacoes/boletim/edicao/as-teses-do-ano)
+ * [As teses do ano - UFMG Nº 1998 - Ano 44 - 06.11.2017](https://ufmg.br/comunicacao/publicacoes/boletim/edicao/as-teses-do-ano) and [Optimize Energy - Page 8](https://ufmg.br/storage/f/8/d/7/f8d76668b005161e87c64f9f31afa48c_15097122927134_785829665.pdf)
  * [Introducing Vitor and Igor Coelho of NeoResearch](https://neonewstoday.com/general/introducing-vitor-and-igor-coelho-of-neoresearch/)
