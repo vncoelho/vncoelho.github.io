@@ -160,3 +160,7 @@ I am also interested in neuroscience, applied magnetism, quantum physics, simula
 * Promote social and software freedom;
 * Embed privacy into devices used in our daily life;
 * Resolution of Combinatorial Optimization problems in Smart Cities and the Industry.
+
+### News
+ * [As teses do ano - UFMG Nº 1998 - Ano 44 - 06.11.2017](https://ufmg.br/comunicacao/publicacoes/boletim/edicao/as-teses-do-ano)
+ * [Introducing Vitor and Igor Coelho of NeoResearch](https://neonewstoday.com/general/introducing-vitor-and-igor-coelho-of-neoresearch/)
