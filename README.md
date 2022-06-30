@@ -13,6 +13,14 @@ online at [https://mmistakes.github.io/minimal-mistakes/](https://mmistakes.gith
 * The folder suggested for inserting your images is `/assets/images`
 
 
+## [DEV-MODE] - Docker
+
+Run `docker-compose up`, optionally dettached with `-d`.
+
+If you need to build once more use `docker-compose build`.
+
+`execBundleJekyllServe.sh` may need modification if not working with `minimal-mistakes-jekyll`.
+
 ## [DEV-MODE] - Running locally on Ubuntu 18.04
 Packages install process is described at A1) and A2).
 
