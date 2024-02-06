@@ -14,7 +14,7 @@ layouts_gallery:
     alt: "archive layout example"
 toc: true
 ---
-> Researcher engaged in scientific, industrial and socials causes, contributor of several open-source projects and and expert in the development of industrial large-scale projects.
+> Engineering and Computer Science Researcher engaged in scientific, industrial and socials causes, contributor of several open-source and industrial projects.
 
 ## Short-Bio
 
