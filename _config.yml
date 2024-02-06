@@ -103,7 +103,7 @@ analytics:
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
   avatar           : "/assets/images/vncoelho.jpg"
-  bio              : "Scientist, researcher, developer and nature lover. I have been trying to release my research as open-source projects, open for external contributions and suggestions."
+  bio              : "Researcher, scientist, developer and nature lover. I have been trying to research topics that warms my mind and hearth, keeping always myself open for external contributions and suggestions."
   location         : "Ouro Preto/MG, Brazil"
   email            :
   uri              : *url
@@ -118,7 +118,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "vitor_nature"
+  instagram        : "vitor_op"
   lastfm           :
   linkedin         :
   pinterest        :
