@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Vitor Nazário Coelho Homepage"
-excerpt: "Scientist, researcher, developer and nature lover. I have been trying to release my research as open-source projects, open for external contributions and suggestions."
+excerpt: "Researcher, scientist, developer and nature lover. I have been trying to research topics that warms my mind and hearth, keeping always myself open for external contributions and suggestions."
 layouts_gallery:
   - url: /assets/images/mm-layout-splash.png
     image_path: /assets/images/mm-layout-splash.png
@@ -14,7 +14,7 @@ layouts_gallery:
     alt: "archive layout example"
 toc: true
 ---
-> Engineering and Computer Science Researcher engaged in scientific, industrial and socials causes, contributor of several open-source and industrial projects.
+> Engineering and Computer Science Researcher engaged in scientific, industrial and socials causes, contributor of open-source and industrial projects.
 
 ## Short-Bio
 
@@ -24,9 +24,11 @@ Doctor in Electrical Engineering, in the field of Computational Intelligence, by
 During the PhD, Vitor did an exchange period at the University of Sheffield (England), in partnership with the Rolls Royce Technology Center in Control and Systems Engineering, and at ORT Braude College of Engineering (Israel), as a Marie Curie researcher for the European Commission as part of the Seventh Framework Program (FP7).
 Thesis awarded as the best one in the Engineering area in the year of 2016 of UFMG.
 Between 2016 and 2018, he was a Post-Doctorate researcher in partnership with the Universidade Federal Fluminense, supported by the outstanding program PDR-10/FAPERJ program.
-Currently, he acts as an autonomous developer, researcher, investor and partner of different projects.
+Currently, he acts as autonomous developer, researcher, entrepreneur and investor.
 
-Vitor has been focusing in researches directed to decentralized environments and smart contracts. Active developer and collaborator of distinct open-source projects (vide [https://github.com/vncoelho](https://github.com/vncoelho)). Among them, contributing to the large-scale Ecosystem of the Neo Blockchain.
+Vitor has been focusing in researches directed to decentralized environments and blockchain technology. 
+Active developer and collaborator of open-source projects (vide [https://github.com/vncoelho](https://github.com/vncoelho)). 
+Among them, contributing to the large-scale ecosystem of the Neo Blockchain, being the main researcher and developer in charge of the dBFT 2.0 consensus of Neo Blockchain.
 
 The main area he has been acting is computational intelligence and mathematics, focusing on the following research topics: mono and multi-objective combinatorial optimization, metaheuristics, robotics and automation, trajectory search algorithms, evolutionary computation, evolutionary strategies, multi-agent systems, time series forecasting, evolution strategies, mathematical programming, multi-criteria decision making, mining planning, operations research, smart and digital cities, optimization techniques applied to smart-microgrids, renewable energy integration with mini/microgrid systems, smart grids autonomy, energy storage management, vehicle-to-grid (V2G) integration technologies,  forecasting of renewable energy consumption and generation, blockchain, the use of cryptocurrencies and distributed ledgers, machine learning, scheduling/timetabling, vehicle routing, digital marketing, adaptive and self-calibrated PID controllers, and development of computational frameworks.
 In addition, he also has interests in the area of neuroscience, quantum physics, analysis of electromagnetic spectra, astronomy, simulation of cellular organisms and their interaction with viruses and pathologies.
